@@ -18,6 +18,8 @@ This isn't a bookmark collection. It's a research engine's output — a library 
 
 If you've ever wondered *"how do I get an AI to actually know my niche?"* — this repo is the answer in public.
 
+> **Want to build, not just read?** This library is one half of the method. The other half is the [**Open Source AI Builders Club**](https://www.skool.com/open-source-ai-builders-club/about) — a hands-on community where we turn research like this into real projects: local models with Ollama and llama.cpp, fine-tuning with Unsloth, and agents you actually own. Tutorials, build-alongs, and people who ship.
+
 ---
 
 ## The idea, in one paragraph
@@ -123,10 +125,10 @@ A personal layer of this library — owner context, voice, and private business 
 
 Because "own your AI" shouldn't just be a slogan. The method is the point: a solo builder can run a research division with open tooling and agents, and this repo is the proof. Fork it, build on it, or just steal the skill format — it's deliberately boring and standard on purpose.
 
-If you build something with it, we want to see it.
+If you build something with it, we want to see it — and if you want to build *with* us, join the [Open Source AI Builders Club](https://www.skool.com/open-source-ai-builders-club/about).
 
 ---
 
 *A-Tech Research Division — researching daily since May 2025.*
 
-**Connect:** [hamishfromatech on YouTube](https://www.youtube.com/@hamishfromatech) · [A-Tech](https://atechds.com)
+**Connect:** [hamishfromatech on YouTube](https://www.youtube.com/@hamishfromatech) · [A-Tech](https://atechds.com) · [Open Source AI Builders Club](https://www.skool.com/open-source-ai-builders-club/about)
