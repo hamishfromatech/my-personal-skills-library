@@ -1,0 +1,57 @@
+# =====================================================================
+# A-Tech Research Skills — exclusion list
+# Nothing below is deleted from disk; git simply never tracks it.
+# All excluded skills remain fully usable locally by the agent.
+#
+# Exclusion principle: PRIVATE PERSONAL CONTEXT
+# (identity, family, health, finances, business strategy, personal
+#  voice DNA, book-series IP). Generic research skills that only
+#  reference the public brand (hamishfromatech / A-Tech) in an
+#  "A-Tech Alignment" note are SAFE and stay tracked.
+# =====================================================================
+
+# --- Owner identity, businesses, strategy, finances, voice, IP ---
+hamish-prakash-owner-context/
+
+# --- Personal content franchises & voice ---
+# Sovereign Diaries: personal build-log franchise spec (names owner
+# throughout, personal mission/strategy)
+sovereign-diaries-content-system/
+
+# Hamish's personal voice + content DNA (100+ personal quote patterns,
+# scam-awareness playbook written for his channels)
+marketing-and-content/hamish-voice-and-ai-framework/
+
+# Built specifically for Hamish's book ("Be Practical") — strategy +
+# personal positioning
+marketing-and-content/be-practical-book-writing-workflow/
+
+# Manuscript editing system built specifically for the Be Practical
+# series (personal book pipeline)
+marketing-and-content/manuscript-editing-workflow/
+
+# Skool community content automation with personal voice-style guide
+marketing-and-content/skool-content-automation/
+
+# Mentor-research skills personalized to Hamish's A-Tech ecosystem
+# ("Application to Hamish's A-Tech Ecosystem" sections)
+marketing-and-content/vince-warnock/
+marketing-and-content/alex-hormozi/
+
+# --- SENSITIVE: contains personal health information ---
+# Digital-twin skill references FND diagnosis, personal history,
+# health timeline. NEVER publish.
+cognitive-science-and-ux/digital-twin-memory-architecture/
+
+# =====================================================================
+# Housekeeping
+# =====================================================================
+
+# Local backups of the index (contain full changelog copies; bloat)
+*.bak
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
