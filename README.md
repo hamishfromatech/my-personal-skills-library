@@ -18,6 +18,8 @@ This isn't a bookmark collection. It's a research engine's output — a library 
 
 If you've ever wondered *"how do I get an AI to actually know my niche?"* — this repo is the answer in public.
 
+Built by agents, curated by humans, and road-tested with real builds in the [Open Source AI Builders Club](https://www.skool.com/open-source-ai-builders-club/about).
+
 > **Want to build, not just read?** This library is one half of the method. The other half is the [**Open Source AI Builders Club**](https://www.skool.com/open-source-ai-builders-club/about) — a hands-on community where we turn research like this into real projects: local models with Ollama and llama.cpp, fine-tuning with Unsloth, and agents you actually own. Tutorials, build-alongs, and people who ship.
 
 ---
@@ -91,6 +93,25 @@ This library maintains itself. An automated research pipeline runs daily:
 The result: skills don't go stale. When new evidence lands on a topic — like open-source LLM revenue — the existing skill gets an addendum, so you're reading the current version of the knowledge, not a snapshot from when someone last felt like updating it.
 
 Research cycles are logged with full change history, so you can always trace *why* a skill says what it says.
+
+---
+
+## Build With Us — The Open Source AI Builders Club
+
+A library is for reading. A club is for shipping.
+
+The [Open Source AI Builders Club](https://www.skool.com/open-source-ai-builders-club/about) is where the stuff in this repo gets used for real — a community of learners and builders who'd rather make something this week than bookmark it for someday.
+
+Inside:
+
+- **"Try it this week" build challenges** — small, concrete, finishable
+- **Project breakdowns and tutorials** — what worked, what broke, what it cost
+- **Open-source tooling, hands-on** — Ollama, llama.cpp, Unsloth, local models, fine-tuning workflows, model ownership
+- **Skills road-tested before they're theory** — club builds feed back into this library
+
+No cost to look around. No corporate energy. Just people building in the open.
+
+**→ [Join the Open Source AI Builders Club](https://www.skool.com/open-source-ai-builders-club/about)**
 
 ---
 
