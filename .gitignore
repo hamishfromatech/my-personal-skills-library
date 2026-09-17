@@ -55,3 +55,13 @@ cognitive-science-and-ux/digital-twin-memory-architecture/
 Thumbs.db
 *.swp
 *~
+# =====================================================================
+# Local-only research infrastructure (not part of the public library)
+# =====================================================================
+
+# Raw daily research reports — distilled output lives in the skills;
+# the raw feed stays local
+_daily-research-reports/
+
+# Full historical README/changelog archives — local provenance only
+_archive/
