@@ -71,3 +71,5 @@ financial-freedom-and-wealth/robert-kiyosaki/
 financial-freedom-and-wealth/kiyosaki-solvency-first-guardrail/
 financial-freedom-and-wealth/kiyosaki-ai-content-empire-2026/
 financial-freedom-and-wealth/kiyosaki-ai-wealth-transfer/
+# Catch-all for any future Kiyosaki-named skills (matches Kiyosaki/kiyosaki prefixes)
+financial-freedom-and-wealth/*iyosaki*/
