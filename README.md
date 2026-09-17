@@ -1,4 +1,7 @@
 # The A-Tech Skills Library
+
+![Open Source AI Builders Club — Own your AI, in 30 days. Self-hosted · weekly build calls · no API bills.](skool-cover-cream.png)
+
 <!-- ============================================================
 MAINTENANCE DIRECTIVE — FOR AUTOMATED RESEARCH AGENTS (READ FIRST)
 
